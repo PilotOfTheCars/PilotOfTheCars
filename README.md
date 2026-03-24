@@ -5,11 +5,11 @@ Welcome to my GitHub! I'm passionate about aviation and technology, and I spend 
 ## ✈️ About Me
 - 🛫 Founder of **GeoFS EMS** — a unique emergency services team in the GeoFS flight simulator.
 - 🌍 Fascinated by everything aviation: planes, airports, and flight simulations.
-- 👨‍💻 Currently learning **Python**, **C++**, and **JavaScript** to bring my ideas to life.
+- 👨‍💻 Currently learning **Python** and **JavaScript** to bring my ideas to life.
 - 🎮 I enjoy creating games, building systems, and developing interactive simulations.
 
 ## 💬 Contact
-- 📫 Reach me on **Discord** — I’m always happy to chat or collaborate on cool projects!
+- 📫 Reach me on **Mechronyx@gmail.com** I am allways happy to find new ideas and talk!
 - 😄 Pronouns: He / Him / His
 
 ## ⚡ Fun Fact
